@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @adolesamuel
-- 👀 Actively building Flutter apps and packages
+- 👀 Actively building Flutter, React and React Native, Kotlin
 - 🌱 Also building with Golang
-- 💞️ I’m looking to collaborate on Dart & Go projects
+- 💞️ I’m looking to collaborate on Dart, React & Go projects
 - 📫 You can reach me at adolesamuel@yahoo.com or adolesamuel4@gmail.com
 
 <!---
